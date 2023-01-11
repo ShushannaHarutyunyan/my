@@ -1,0 +1,82 @@
+.contener {
+    width: 80%;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+.titleStyle {
+    font-size: 24px;
+    font-weight: 200;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.categoryStyle {
+    font-style: italic;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: left;
+    margin-left: 10px;
+}
+.contener :nth-child(4) {
+    font-size: 14px;
+    font-weight: 300;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 5px;
+    margin-top: 8px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+
+.contener :nth-child(5) {
+    font-size: 14px;
+    font-weight: 300;
+    text-align: right;
+    padding-left: 10px;
+    padding-right: 8px;
+    margin-top: 8px;
+}
+.contener :nth-child(6) {
+    font-size: 14px;
+    font-weight: 300;
+    text-align: right;
+    padding-left: 10px;
+    padding-right: 8px;
+    margin-top: 8px;
+}
+.contener :nth-child(8) {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 8px;
+    margin-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+
+.boxHiden {
+    display:none;
+ }
+
+ .boxVisibil > div {
+  
+    text-align: left;
+}
+.comenntStyle {
+    font-size: 12px;
+    font-weight: 200;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 8px;
+    margin-top: 8px;
+    padding-bottom: 8px;
+
+}
+.editStyle {
+    padding: 15px;
+    margin: 15px;
+    text-align: right;
+}

@@ -1,0 +1,24 @@
+.modal-title{
+font-weight: 500;
+margin: 20px;
+}
+.blog-item >input {
+    
+    margin: 20px;
+    width: 90%;
+    height: 50px;
+   
+}
+.blog-item>div{
+    margin-left: 20px;
+}
+.text-item>textarea{
+    height: 170px;
+    width: 90%;
+    margin: 20px;
+}
+.modal-btns-container{
+    text-align: right;
+    padding: 2%;
+    margin: 2%;
+}
